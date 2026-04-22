@@ -157,6 +157,15 @@ Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distri
 
 ### 2022
 
+
+- [ ] [Xie, J., Zhu, Y., Li, J., Li, P. 2022\
+  A Tale of Two Flows: Cooperative Learning of Langevin Flow and Normalizing Flow Toward Energy-Based Model (ICLR) 2022](https://openreview.net/forum?id=31d5RLCUuXC)
+
+- [ ] [ Xie, B., Yuan, L., Li, S., Liu, C. H., Cheng, X., & Wang, G. (2022). \
+   Active Learning for Domain Adaptation: An Energy-based Approach. AAAI 2022](https://arxiv.org/abs/2112.01406)
+   
+- [ ] [Zhang, J., Xie, J., Zheng, Z., Barnes, N. 2022\
+  Energy-Based Generative Cooperative Saliency Prediction (AAAI 2022)](https://arxiv.org/pdf/2106.13389.pdf)
 - [ ] [Rhodes, Benjamin, and Michael Gutmann. (2022). \
 Enhanced gradient-based MCMC in discrete spaces. In TMLR 2022.](https://arxiv.org/pdf/2208.00040)
 
@@ -232,6 +241,23 @@ Learning Neural Set Functions Under the Optimal Subset Oracle. In NeurIPS 2022 (
 
 ### 2021
 
+
+
+- [ ] [Zhang, J., Xie, J., Barnes, N., Li, P. (2021)\
+  Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction (NeurIPS) 2021](https://arxiv.org/pdf/2112.13528.pdf)
+
+- [ ] [Zhao, Y., Xie, J., Li, P. (2021) \
+  Learning Energy-Based Generative Models via Coarse-to-Fine Expanding and Sampling (ICLR 2021)](https://openreview.net/pdf?id=aD1_5zowqV)
+
+- [ ] [Xie, J., Zheng, Z., Fang, X., Zhu, S., Wu, Y. (2021)\
+  Learning Cycle-Consistent Cooperative Networks via Alternating MCMC Teaching for Unsupervised Cross-Domain Translation (AAAI 2021)](https://arxiv.org/abs/2103.04285)
+
+- [ ] [Xie, J., Zheng, Z., Li, P. (2021)\.
+  Learning Energy-Based Model with Variational Auto-Encoder as Amortized Sampler. (AAAI 2021)](https://arxiv.org/pdf/2012.14936.pdf)
+
+- [ ] [Xu, Y., Xie, J., Zhao, T., Baker, C., Zhao, Y., Wu, Y. (2022)\
+  Energy-Based Continuous Inverse Optimal Control. 2022](https://arxiv.org/pdf/1904.05453.pdf)
+
 - [ ] [Lazaro-Gredilla, M., Dedieu, A., & George, D. (2021). \
 Perturb-and-max-product: Sampling and learning in discrete energy-based models. Advances in Neural Information Processing Systems, 34.](https://arxiv.org/abs/2111.02458)
 
@@ -289,7 +315,11 @@ GraphEBM: Molecular Graph Generation with Energy-Based Models. arXiv preprint ar
 Conjugate Energy-Based Models.](https://openreview.net/pdf?id=4k58RmAD02)
 
 - [ ] [Zheng, Z., Xie, J., & Li, P. (2021). \
-Patchwise Generative ConvNet: Training Energy-Based Models from a Single Natural Image for Internal Learning.](http://www.stat.ucla.edu/~jxie/personalpage_file/publications/internal_EBM.pdf)
+Patchwise Generative ConvNet: Training Energy-Based Models from a Single Natural Image for Internal Learning. CVPR 2021](http://www.stat.ucla.edu/~jxie/personalpage_file/publications/internal_EBM.pdf)
+
+- [ ] [Xie, J., Xu, Y., Zheng, Z., Zhu, S., Wu, Y. (2021)\
+Generative PointNet: Deep Energy-Based Learning on Unordered Point Sets for 3D Generation, Reconstruction and Classification. CVPR 2021]
+(https://arxiv.org/pdf/2004.01301.pdf)
 
 - [ ] [Wu, Jiaxiang and Shen, Tao and Lan, Haidong and Bian, Yatao and Huang, Junzhou. (2021) \
 SE(3)-Equivariant Energy-based Models for End-to-End Protein Folding.](https://www.biorxiv.org/content/10.1101/2021.06.06.447297)
@@ -299,6 +329,9 @@ SE(3)-Equivariant Energy-based Models for End-to-End Protein Folding.](https://w
 
 
 ### 2020
+
+- [ ] [Xie, J., Zheng, Z., Gao, R., Wang, W., Zhu, S., Wu, Y. (2020).\
+ Generative VoxelNet: Learning Energy-Based Models for 3D Shape Synthesis and Analysis. PAMI 2020](https://arxiv.org/pdf/2012.13522.pdf)
 
 - [ ] [Grathwohl, W., Wang, K. C., Jacobsen, J. H., Duvenaud, D., & Zemel, R. (2020, November). \
  Learning the stein discrepancy for training and evaluating energy-based models without sampling. In International Conference on Machine Learning (pp. 3732-3747). PMLR.](http://proceedings.mlr.press/v119/grathwohl20a.html)
@@ -410,6 +443,10 @@ From Sets to Multisets: Provable Variational Inference for Probabilistic Integer
 
 ### 2019
 
+- [ ] [Xie, J., Zhu, S., Wu, Y. (2019).\
+  Learning Energy-based Spatial-Temporal Generative ConvNet for Dynamic Patterns. (PAMI 2019)](https://arxiv.org/abs/1909.11975)
+
+
 - [ ] [Saremi, S., & Hyvärinen, A. (2019).\
  Neural empirical bayes. Journal of Machine Learning Research, 20, 1-23.](https://www.jmlr.org/papers/volume20/19-216/19-216.pdf)
 
@@ -465,12 +502,18 @@ Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a
 Adversarial contrastive estimation. arXiv preprint arXiv:1805.03642.](https://arxiv.org/abs/1805.03642)
 
 
+- [ ] [Xie, J., Zheng, Z., Gao, R., Wang, W., Zhu, S., Wu, Y. (2018).\
+  Learning Descriptor Networks for 3D Shape Synthesis and Analysis .CVPR 2018](https://arxiv.org/abs/1804.00586)
+
+
 - [ ] [Scellier, B., & Bengio, Y. (2017).\
  Equilibrium propagation: Bridging the gap between energy-based models and backpropagation. Frontiers in computational neuroscience, 11, 24.](https://www.frontiersin.org/articles/10.3389/fncom.2017.00024/full)
 
 - [ ] [Haarnoja, T., Tang, H., Abbeel, P., & Levine, S. (2017, July).\
  Reinforcement learning with deep energy-based policies. In International Conference on Machine Learning (pp. 1352-1361). PMLR.](http://proceedings.mlr.press/v70/haarnoja17a.html)
 
+- [ ] [Xie, J., Zhu, S., Wu, Y. (2018) .\
+Synthesizing Dynamic Pattern by Spatial-Temporal Generative ConvNet.  CVPR 2017](https://arxiv.org/abs/1606.00972)
 
 
 ### 2013 ~ 2016
@@ -608,3 +651,38 @@ Information theory and statistical mechanics.Physical review, 106(4):620,1957a](
 - [ ] [1957b: Jaynes, Edwin T.   \
 Information theory and statistical mechanics. ii. Physical review, 108(2):171, 1957b.](https://journals.aps.org/pr/abstract/10.1103/PhysRev.108.171)
 
+
+## Tutorials & Talks & Blogs
+
+- [ ] [2006: LeCun,  Yann,  Chopra,  Sumit,  Hadsell,  Raia,  Ranzato,  M,  and  Huang,  F.   \
+A  tutorial  on energy-based learning. Predicting structured data, 1(0), 2006](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)
+
+- [ ] [Yann LeCun, Sumit Chopra, Raia Hadsell, Fu-Jie Huang, Marc'Aurelio Ranzato (Courant Institute/CBLL), 2003. \
+LeCun's research page on EBMs.](https://cs.nyu.edu/~yann/research/ebm/)
+
+- [ ] [Takayuki Osogami, Sakyasingha Dasgupta, 2017. \
+IJCAI-17 Tutorial: Energy-based machine learning.](https://researcher.watson.ibm.com/researcher/view_group.php?id=7834)
+
+- [ ] [2020 Youtube video: Arthur Gretton. \
+On the critic function of implicit generative models.](https://www.youtube.com/watch?v=et6Kgh6mWmc)
+
+- [ ] [2020 Youtube video: Stefano Ermon. \
+Generative Modeling by Estimating Gradients of the Data Distribution](https://www.youtube.com/watch?v=8TcNXi3A5DI&t=3409s)
+
+- [ ] [UvA Deep Learning Tutorials Fall 2020.   \
+Tutorial 8: Deep Energy-Based Generative Models](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html)
+
+- [ ] [Jianwen Xie, Ying Nian Wu. \
+  CVPR 2021 Tutorial on Theory and Application of Energy-Based Generative Models](https://energy-based-models.github.io/)
+  
+- [ ] [Jianwen Xie, Ying Nian Wu. \
+  ICCV 2021 Tutorial on Theory and Application of Energy-Based Generative Models](https://energy-based-models.github.io/iccv2021-tutorial)
+
+
+## Open Source Libraries
+
+- [ ] [2020 Mateus Roder and Gustavo Henrique de Rosa and João Paulo Papa. \
+Learnergy: Energy-based Machine Learners.](https://github.com/gugarosa/learnergy)
+
+- [ ] [Maes, F. (2009). \
+ Nieme: Large-scale energy-based models. The Journal of Machine Learning Research, 10, 743-746.](https://www.jmlr.org/papers/volume10/maes09a/maes09a.pdf)*[[code (however is missing in the webpage)]](http://nieme.lip6.fr/)*
